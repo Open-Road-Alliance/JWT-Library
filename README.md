@@ -6,7 +6,7 @@ Simple library to create JSON Web Tokens (JWTs) that can be provided to secure r
 
 ## Setup
 
-To add this library to your scrupt file, do the following in the Apps Script code editor:
+To add this library to your script file, do the following in the Apps Script code editor:
 
 1. Click on the menu item "Resources > Libraries..."
 2. In the "Add a Library" text box, enter the script ID `19Qtg9LvQn25h3tIrNJclER2s5TRmpX8QNNL9Ix0Z72o1Go3pl852_zEg` and click the "Add" button.
